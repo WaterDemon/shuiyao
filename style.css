@@ -1,0 +1,4 @@
+.chrome-plugin-demo-panel{position:fixed;right: 50px;bottom:50px;width: 100px;height: 50px;background: #000;color:#fff;z-index:999;display: block;}
+.searchMin{width:300px;height:100px;background:#fff;border:1px solid #ddd;border-radius: 10px;position:fixed;top:0;right:0;z-index:600;}
+#searchMin{width:100px;height:30px;border:1px solid #ddd;float:left;margin-left:20px;margin-top:20px;}
+.searchMin button{background:#fff;height: 30px;border-radius: 10px;float:left;margin-top:20px;margin-left: 10px;width:70px;border:1px solid #ddd;}
